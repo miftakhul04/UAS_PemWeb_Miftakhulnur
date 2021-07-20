@@ -1,10 +1,10 @@
-# UJIAN AKHIR SEMESTER GENAP 2020/2021
-# PEMROGRAMAN WEB
+# *UJIAN AKHIR SEMESTER* 
+# *PEMROGRAMAN WEB*
 
-- Nama : Miftakhul Nur Awalin
-- NIM : 311910579
-- Kelas : TI.19.B2
-- Link demo : https://pemudakreatif.my.id
+# *Nama : Miftakhul Nur Awalin*
+# *NIM : 311910579*
+# *Kelas : TI.19.B2*
+# *Link demo : https://pemudakreatif.my.id*
 
 
 ## Aplikasi Sederhana Iuran Kas Family Gathering
