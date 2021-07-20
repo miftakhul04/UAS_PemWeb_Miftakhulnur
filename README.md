@@ -1,13 +1,13 @@
 # UJIAN AKHIR SEMESTER GENAP 2020/2021
 # PEMROGRAMAN WEB
 
-- Nama : Purwanto
-- NIM : 311910173
+- Nama : Miftakhul Nur Awalin
+- NIM : 311910579
 - Kelas : TI.19.B2
-- Link demo : https://purwanto.techcelup.com/
+- Link demo : https://pemudakreatif.my.id
 
 
-## Aplikasi Sederhana Kas RT Berbasis Codeigniter 4
+## Aplikasi Sederhana Iuran Kas Family Gathering
 
 ### Install codeigniter 4
 Download codeigniter dari website resmi, kemudian extract pada folder htdocs yang ada di xampp.
